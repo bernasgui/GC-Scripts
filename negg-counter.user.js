@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         [GC] Neggs Counter
-// @namespace    https://greasyfork.org/users/1230396
+// @namespace    https://github.com/bernasgui/
 // @version      1.0
 // @description  Show how many Negg Tokens you have in the inventory
 // @author       Berna
